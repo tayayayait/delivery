@@ -1,0 +1,5 @@
+{
+  "name": "FlashDelivery MVP",
+  "description": "A high-speed, minimalist food delivery app with real-time order tracking and a 'Wizard of Oz' style admin panel for manual order management.",
+  "requestFramePermissions": []
+}
